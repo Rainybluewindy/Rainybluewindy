@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rainybluewindy
 - 👀 I’m interested in developing software.
 - 🌱 I’m currently learning Java, SQL, Python, etc.
-- 💞️ I’m looking to collaborate on any entry level projects...
+- 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me ...
 
 <!---
